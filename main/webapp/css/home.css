@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.main-body {
+	margin: 200px;
+	height: 400px;
+	width: 100%;
+	background-color: red;
+}
+
